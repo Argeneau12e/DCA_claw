@@ -1,0 +1,22 @@
+# Environment — NEVER commit your keys
+.env
+
+# Auto-generated logs — fresh for every user
+logs/
+*.log
+
+# Node modules
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.swp
