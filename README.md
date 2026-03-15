@@ -775,4 +775,4 @@ A: The 24h PnL landed close to zero, so the agent extended the resolution window
 ---
 
 *DCA Claw v3.2 — Built for the Binance "Build the Future with AI Claw" Contest 2026*
-*@Aureneaux — github.com/Aureneaux*
+*@Argeneau — github.com/Argeneau12e*
