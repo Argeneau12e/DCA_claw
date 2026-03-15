@@ -181,6 +181,12 @@ Here is what every line means:
 
 ---
 
+<h2 align="center">Dashboard Preview</h2>
+
+<p align="center">
+  <img src="assets/images/image1.png" width="800">
+</p>
+
 ### Binance Testnet API (fake money — start here)
 
 The testnet lets you run the agent with real Binance infrastructure but fake USDT. Perfect for testing.
@@ -224,6 +230,17 @@ The testnet lets you run the agent with real Binance infrastructure but fake USD
    ```
 
 ---
+
+<p align="center">
+  <img src="assets/images/image2.png" width="45%">
+  <img src="assets/images/image3.png" width="45%">
+</p>
+
+<h2 align="center">History-Board Preview</h2>
+
+<p align="center">
+  <img src="assets/images/image4.png" width="800">
+</p>
 
 ### Anthropic API Key (optional — enables AI reasoning)
 
