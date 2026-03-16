@@ -2,7 +2,7 @@
 
 ### Autonomous AI-powered Dollar Cost Averaging agent for Binance
 **Built for the Binance "Build the Future with AI Claw" Contest 2026**
-*by Samuel Oduntan (@Aureneaux)*
+*by Samuel Oduntan (@Argeneau12e)*
 
 ---
 
